@@ -9,6 +9,9 @@ Link: https://www.udemy.com/course/curso-reactjs/learn/lecture/17423714#overview
 SIGA-ME NO INSTAGRAM:
 https://www.instagram.com/fabiovitormacieira/
 
+# modulos ultilizados
+ -  add reat-router-dom
+
 # O que você aprenderá
     Você aprenderá criar aplicações com React Js do zero ao avançado
     Aprender a criar sistemas e aplicações de forma certa.
